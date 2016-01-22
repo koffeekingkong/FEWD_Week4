@@ -55,7 +55,7 @@ The team from Relaxr is back...again! They want their page to be more interactiv
 
 - [Starter Code](starter_code)
 - [Cheat-sheet of jQuery selectors, methods, and events](http://oscarotero.com/jquery/)
-- [Get more practice with jQuery DOM selectors](jquery_dom_selector_practice)
+  - [Get more practice with jQuery DOM selectors](jquery_dom_selector_practice)
 
 
 <br>
